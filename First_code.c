@@ -1,5 +1,3 @@
-# Find-the-smallest-number
-//It is a c program to find the smallest number between given numbers.
 # include<stdio.h>
 int main(){
     int x, y, z;
